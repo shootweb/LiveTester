@@ -1,6 +1,6 @@
 # LiveTester.py 🛡️
 
-`LiveTester.py` is an automated **XSS vulnerability tester** that integrates with Selenium to monitor browser activity in real-time and dynamically test discovered URL, form, and cookie parameters for reflected or DOM-based XSS vulnerabilities. You navigate while the program tests.
+`LiveTester.py` is an automated **XSS vulnerability tester** that integrates with Selenium to monitor browser activity in real-time and dynamically test discovered URL, form, and cookie parameters for reflected or DOM-based XSS vulnerabilities. You navigate and manually test while the program runs automated tests.
 
 > ⚠️ **For authorized penetration testing only. Never run this against systems without explicit permission.**
 
